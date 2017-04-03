@@ -1,0 +1,208 @@
+<html>
+<head>
+<title>TestNG:  Command line test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Command line test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>7/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Apr 02 17:15:57 CDT 2017</td>
+</tr>
+<tr><td>Total time:</td><td>170 seconds (170023 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.presta.tests.SmokeTest.addanddelete()'><b>addanddelete</b><br>Test class: com.presta.tests.SmokeTest<br>Test method: add2cartndelete<br/>
+<a href="#Output-1193477110" onClick='toggleBox("Output-1193477110", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1193477110" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1193477110">
+Test case 4 is running...!<br/>
+***************************<br/>
+Test passed..!<br/>
+Test case 4 passed...!<br/>
+-Passed-<br/>
+Test Method name is:- addanddelete<br/>
+Test name is:- add2cartndelete<br/>
+Test desc is:- add2cartndelete<br/>
+</div>
+</td>
+<td></td>
+<td>29</td>
+<td>com.presta.tests.SmokeTest@747edf66</td></tr>
+<tr>
+<td title='com.presta.tests.SmokeTest.alogin_Positive()'><b>alogin_Positive</b><br>Test class: com.presta.tests.SmokeTest<br>Test method: login_Positive<br/>
+<a href="#Output-300303720" onClick='toggleBox("Output-300303720", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-300303720" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-300303720">
+Test case 1 is running...!<br/>
+Test case 1 passed...!<br/>
+-Passed-<br/>
+Test Method name is:- alogin_Positive<br/>
+Test name is:- login_Positive<br/>
+Test desc is:- login_Positive<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.presta.tests.SmokeTest@747edf66</td></tr>
+<tr>
+<td title='com.presta.tests.SmokeTest.cartaddressverify()'><b>cartaddressverify</b><br>Test class: com.presta.tests.SmokeTest<br>Test method: cartaddress<br/>
+<a href="#Output-175166426" onClick='toggleBox("Output-175166426", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-175166426" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-175166426">
+Test case 5 is running...!<br/>
+error..!!<br/>
+Test case 5 passed...!<br/>
+-Passed-<br/>
+Test Method name is:- cartaddressverify<br/>
+Test name is:- cartaddress<br/>
+Test desc is:- cartaddress<br/>
+</div>
+</td>
+<td></td>
+<td>26</td>
+<td>com.presta.tests.SmokeTest@747edf66</td></tr>
+<tr>
+<td title='com.presta.tests.SmokeTest.cartpaymentVerification()'><b>cartpaymentVerification</b><br>Test class: com.presta.tests.SmokeTest<br>Test method: cartPayment<br/>
+<a href="#Output-1193695963" onClick='toggleBox("Output-1193695963", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1193695963" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1193695963">
+Test case 7 is running...!<br/>
+error..!!<br/>
+Checkbox is unchecked..!!<br/>
+Checkbox is checked..!!<br/>
+Test case 7 passed...!<br/>
+-Passed-<br/>
+Test Method name is:- cartpaymentVerification<br/>
+Test name is:- cartPayment<br/>
+Test desc is:- cartPayment<br/>
+</div>
+</td>
+<td></td>
+<td>42</td>
+<td>com.presta.tests.SmokeTest@747edf66</td></tr>
+<tr>
+<td title='com.presta.tests.SmokeTest.cartshippingverify()'><b>cartshippingverify</b><br>Test class: com.presta.tests.SmokeTest<br>Test method: cartshipping<br/>
+<a href="#Output-1416386679" onClick='toggleBox("Output-1416386679", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1416386679" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1416386679">
+Test case 6 is running...!<br/>
+error..!!<br/>
+Checkbox is unchecked..!!<br/>
+Test case 6 passed...!<br/>
+-Passed-<br/>
+Test Method name is:- cartshippingverify<br/>
+Test name is:- cartshipping<br/>
+Test desc is:- cartshipping<br/>
+</div>
+</td>
+<td></td>
+<td>36</td>
+<td>com.presta.tests.SmokeTest@747edf66</td></tr>
+<tr>
+<td title='com.presta.tests.SmokeTest.loginNegative()'><b>loginNegative</b><br>Test class: com.presta.tests.SmokeTest<br>Test method: login_Negative<br/>
+<a href="#Output-458899604" onClick='toggleBox("Output-458899604", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-458899604" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-458899604">
+Test case 2 is running...!<br/>
+username ismavenproject22@gmail.com<br/>
+password isMyProject<br/>
+Test case 2 passed...!<br/>
+-Passed-<br/>
+Test Method name is:- loginNegative<br/>
+Test name is:- login_Negative<br/>
+Test desc is:- login_Negative<br/>
+</div>
+</td>
+<td></td>
+<td>16</td>
+<td>com.presta.tests.SmokeTest@747edf66</td></tr>
+<tr>
+<td title='com.presta.tests.SmokeTest.searchProduct()'><b>searchProduct</b><br>Test class: com.presta.tests.SmokeTest<br>Test method: searchProduct<br/>
+<a href="#Output-909064390" onClick='toggleBox("Output-909064390", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-909064390" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-909064390">
+Test case 3 is running...!<br/>
+Test case 3 passed...!<br/>
+-Passed-<br/>
+Test Method name is:- searchProduct<br/>
+Test name is:- searchProduct<br/>
+Test desc is:- searchProduct<br/>
+</div>
+</td>
+<td></td>
+<td>8</td>
+<td>com.presta.tests.SmokeTest@747edf66</td></tr>
+</table><p>
+</body>
+</html>

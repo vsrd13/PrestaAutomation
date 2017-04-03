@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="com.presta.tests.TestNGAnnotationsTest">
+        <methods>
+          <include name="LogintoApp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.presta.tests.TestNGAnnotationsTest -->
+      <class name="com.presta.tests.SmokeTest">
+        <methods>
+          <include name="HomePage"/>
+          <include name="cartpaymentVerification"/>
+          <include name="cartshippingverify"/>
+          <include name="cartaddressverify"/>
+        </methods>
+      </class> <!-- com.presta.tests.SmokeTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

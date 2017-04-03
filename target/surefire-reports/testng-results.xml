@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[in properties qa loop]]>
+    </line>
+    <line>
+      <![CDATA[in browser loop]]>
+    </line>
+    <line>
+      <![CDATA[in browser loop]]>
+    </line>
+    <line>
+      <![CDATA[in browser loop]]>
+    </line>
+    <line>
+      <![CDATA[in browser loop]]>
+    </line>
+    <line>
+      <![CDATA[in browser loop]]>
+    </line>
+    <line>
+      <![CDATA[in browser loop]]>
+    </line>
+    <line>
+      <![CDATA[in browser loop]]>
+    </line>
+    <line>
+      <![CDATA[in browser loop]]>
+    </line>
+    <line>
+      <![CDATA[in browser loop]]>
+    </line>
+    <line>
+      <![CDATA[in browser loop]]>
+    </line>
+    <line>
+      <![CDATA[in browser loop]]>
+    </line>
+    <line>
+      <![CDATA[Sheet created]]>
+    </line>
+    <line>
+      <![CDATA[URL ishttp://softtest247.com/presta/index.php]]>
+    </line>
+    <line>
+      <![CDATA[username ismavenproject22@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[password isMyProject]]>
+    </line>
+    <line>
+      <![CDATA[Test case 1 is running...!]]>
+    </line>
+    <line>
+      <![CDATA[Test case 1 passed...!]]>
+    </line>
+    <line>
+      <![CDATA[-Passed-]]>
+    </line>
+    <line>
+      <![CDATA[Test Method name is:- alogin_Positive]]>
+    </line>
+    <line>
+      <![CDATA[Test name is:- login_Positive]]>
+    </line>
+    <line>
+      <![CDATA[Test desc is:- login_Positive]]>
+    </line>
+    <line>
+      <![CDATA[Test case 2 is running...!]]>
+    </line>
+    <line>
+      <![CDATA[username ismavenproject22@gmail.com]]>
+    </line>
+    <line>
+      <![CDATA[password isMyProject]]>
+    </line>
+    <line>
+      <![CDATA[Test case 2 passed...!]]>
+    </line>
+    <line>
+      <![CDATA[-Passed-]]>
+    </line>
+    <line>
+      <![CDATA[Test Method name is:- loginNegative]]>
+    </line>
+    <line>
+      <![CDATA[Test name is:- login_Negative]]>
+    </line>
+    <line>
+      <![CDATA[Test desc is:- login_Negative]]>
+    </line>
+    <line>
+      <![CDATA[Test case 3 is running...!]]>
+    </line>
+    <line>
+      <![CDATA[Test case 3 passed...!]]>
+    </line>
+    <line>
+      <![CDATA[-Passed-]]>
+    </line>
+    <line>
+      <![CDATA[Test Method name is:- searchProduct]]>
+    </line>
+    <line>
+      <![CDATA[Test name is:- searchProduct]]>
+    </line>
+    <line>
+      <![CDATA[Test desc is:- searchProduct]]>
+    </line>
+    <line>
+      <![CDATA[Test case 4 is running...!]]>
+    </line>
+    <line>
+      <![CDATA[***************************]]>
+    </line>
+    <line>
+      <![CDATA[Test passed..!]]>
+    </line>
+    <line>
+      <![CDATA[Test case 4 passed...!]]>
+    </line>
+    <line>
+      <![CDATA[-Passed-]]>
+    </line>
+    <line>
+      <![CDATA[Test Method name is:- addanddelete]]>
+    </line>
+    <line>
+      <![CDATA[Test name is:- add2cartndelete]]>
+    </line>
+    <line>
+      <![CDATA[Test desc is:- add2cartndelete]]>
+    </line>
+    <line>
+      <![CDATA[Test case 5 is running...!]]>
+    </line>
+    <line>
+      <![CDATA[error..!!]]>
+    </line>
+    <line>
+      <![CDATA[Test case 5 passed...!]]>
+    </line>
+    <line>
+      <![CDATA[-Passed-]]>
+    </line>
+    <line>
+      <![CDATA[Test Method name is:- cartaddressverify]]>
+    </line>
+    <line>
+      <![CDATA[Test name is:- cartaddress]]>
+    </line>
+    <line>
+      <![CDATA[Test desc is:- cartaddress]]>
+    </line>
+    <line>
+      <![CDATA[Test case 6 is running...!]]>
+    </line>
+    <line>
+      <![CDATA[error..!!]]>
+    </line>
+    <line>
+      <![CDATA[Checkbox is unchecked..!!]]>
+    </line>
+    <line>
+      <![CDATA[Test case 6 passed...!]]>
+    </line>
+    <line>
+      <![CDATA[-Passed-]]>
+    </line>
+    <line>
+      <![CDATA[Test Method name is:- cartshippingverify]]>
+    </line>
+    <line>
+      <![CDATA[Test name is:- cartshipping]]>
+    </line>
+    <line>
+      <![CDATA[Test desc is:- cartshipping]]>
+    </line>
+    <line>
+      <![CDATA[Test case 7 is running...!]]>
+    </line>
+    <line>
+      <![CDATA[error..!!]]>
+    </line>
+    <line>
+      <![CDATA[Checkbox is unchecked..!!]]>
+    </line>
+    <line>
+      <![CDATA[Checkbox is checked..!!]]>
+    </line>
+    <line>
+      <![CDATA[Test case 7 passed...!]]>
+    </line>
+    <line>
+      <![CDATA[-Passed-]]>
+    </line>
+    <line>
+      <![CDATA[Test Method name is:- cartpaymentVerification]]>
+    </line>
+    <line>
+      <![CDATA[Test name is:- cartPayment]]>
+    </line>
+    <line>
+      <![CDATA[Test desc is:- cartPayment]]>
+    </line>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="170023" started-at="2017-04-02T22:15:57Z" finished-at="2017-04-02T22:18:47Z">
+    <groups>
+      <group name="1">
+        <method signature="SmokeTest.alogin_Positive()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="alogin_Positive" class="com.presta.tests.SmokeTest"/>
+      </group> <!-- 1 -->
+      <group name="2">
+        <method signature="SmokeTest.loginNegative()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="loginNegative" class="com.presta.tests.SmokeTest"/>
+      </group> <!-- 2 -->
+      <group name="3">
+        <method signature="SmokeTest.searchProduct()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="searchProduct" class="com.presta.tests.SmokeTest"/>
+      </group> <!-- 3 -->
+      <group name="4">
+        <method signature="SmokeTest.addanddelete()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="addanddelete" class="com.presta.tests.SmokeTest"/>
+      </group> <!-- 4 -->
+      <group name="5">
+        <method signature="SmokeTest.cartaddressverify()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="cartaddressverify" class="com.presta.tests.SmokeTest"/>
+      </group> <!-- 5 -->
+      <group name="6">
+        <method signature="SmokeTest.cartshippingverify()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="cartshippingverify" class="com.presta.tests.SmokeTest"/>
+      </group> <!-- 6 -->
+      <group name="7">
+        <method signature="SmokeTest.cartpaymentVerification()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="cartpaymentVerification" class="com.presta.tests.SmokeTest"/>
+      </group> <!-- 7 -->
+      <group name="smoke">
+        <method signature="SmokeTest.addanddelete()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="addanddelete" class="com.presta.tests.SmokeTest"/>
+        <method signature="SmokeTest.alogin_Positive()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="alogin_Positive" class="com.presta.tests.SmokeTest"/>
+        <method signature="SmokeTest.cartaddressverify()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="cartaddressverify" class="com.presta.tests.SmokeTest"/>
+        <method signature="SmokeTest.cartpaymentVerification()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="cartpaymentVerification" class="com.presta.tests.SmokeTest"/>
+        <method signature="SmokeTest.cartshippingverify()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="cartshippingverify" class="com.presta.tests.SmokeTest"/>
+        <method signature="SmokeTest.loginNegative()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="loginNegative" class="com.presta.tests.SmokeTest"/>
+        <method signature="SmokeTest.searchProduct()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="searchProduct" class="com.presta.tests.SmokeTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Command line test" duration-ms="170023" started-at="2017-04-02T22:15:57Z" finished-at="2017-04-02T22:18:47Z">
+      <class name="com.presta.tests.TestNGAnnotationsTest">
+        <test-method status="PASS" signature="LogintoApp()[pri:0, instance:com.presta.tests.TestNGAnnotationsTest@65f095f8]" name="LogintoApp" is-config="true" duration-ms="12714" started-at="2017-04-02T17:15:44Z" finished-at="2017-04-02T17:15:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Sheet created]]>
+            </line>
+            <line>
+              <![CDATA[URL ishttp://softtest247.com/presta/index.php]]>
+            </line>
+            <line>
+              <![CDATA[username ismavenproject22@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[password isMyProject]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogintoApp -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.presta.tests.TestNGAnnotationsTest@65f095f8]" name="tearDown" is-config="true" duration-ms="1266" started-at="2017-04-02T17:18:47Z" finished-at="2017-04-02T17:18:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.presta.tests.TestNGAnnotationsTest -->
+      <class name="com.presta.tests.SmokeTest">
+        <test-method status="PASS" signature="alogin_Positive()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="alogin_Positive" duration-ms="15" started-at="2017-04-02T17:15:57Z" description="login_Positive" finished-at="2017-04-02T17:15:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case 1 is running...!]]>
+            </line>
+            <line>
+              <![CDATA[Test case 1 passed...!]]>
+            </line>
+            <line>
+              <![CDATA[-Passed-]]>
+            </line>
+            <line>
+              <![CDATA[Test Method name is:- alogin_Positive]]>
+            </line>
+            <line>
+              <![CDATA[Test name is:- login_Positive]]>
+            </line>
+            <line>
+              <![CDATA[Test desc is:- login_Positive]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- alogin_Positive -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="HomePage" is-config="true" duration-ms="1857" started-at="2017-04-02T17:15:57Z" finished-at="2017-04-02T17:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="loginNegative()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="loginNegative" duration-ms="16173" started-at="2017-04-02T17:15:59Z" description="login_Negative" finished-at="2017-04-02T17:16:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case 2 is running...!]]>
+            </line>
+            <line>
+              <![CDATA[username ismavenproject22@gmail.com]]>
+            </line>
+            <line>
+              <![CDATA[password isMyProject]]>
+            </line>
+            <line>
+              <![CDATA[Test case 2 passed...!]]>
+            </line>
+            <line>
+              <![CDATA[-Passed-]]>
+            </line>
+            <line>
+              <![CDATA[Test Method name is:- loginNegative]]>
+            </line>
+            <line>
+              <![CDATA[Test name is:- login_Negative]]>
+            </line>
+            <line>
+              <![CDATA[Test desc is:- login_Negative]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginNegative -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="HomePage" is-config="true" duration-ms="1801" started-at="2017-04-02T17:16:15Z" finished-at="2017-04-02T17:16:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="searchProduct" duration-ms="8209" started-at="2017-04-02T17:16:17Z" description="searchProduct" finished-at="2017-04-02T17:16:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case 3 is running...!]]>
+            </line>
+            <line>
+              <![CDATA[Test case 3 passed...!]]>
+            </line>
+            <line>
+              <![CDATA[-Passed-]]>
+            </line>
+            <line>
+              <![CDATA[Test Method name is:- searchProduct]]>
+            </line>
+            <line>
+              <![CDATA[Test name is:- searchProduct]]>
+            </line>
+            <line>
+              <![CDATA[Test desc is:- searchProduct]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="HomePage" is-config="true" duration-ms="2039" started-at="2017-04-02T17:16:25Z" finished-at="2017-04-02T17:16:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="addanddelete()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="addanddelete" duration-ms="29473" started-at="2017-04-02T17:16:27Z" description="add2cartndelete" finished-at="2017-04-02T17:16:57Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case 4 is running...!]]>
+            </line>
+            <line>
+              <![CDATA[***************************]]>
+            </line>
+            <line>
+              <![CDATA[Test passed..!]]>
+            </line>
+            <line>
+              <![CDATA[Test case 4 passed...!]]>
+            </line>
+            <line>
+              <![CDATA[-Passed-]]>
+            </line>
+            <line>
+              <![CDATA[Test Method name is:- addanddelete]]>
+            </line>
+            <line>
+              <![CDATA[Test name is:- add2cartndelete]]>
+            </line>
+            <line>
+              <![CDATA[Test desc is:- add2cartndelete]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addanddelete -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="HomePage" is-config="true" duration-ms="1663" started-at="2017-04-02T17:16:57Z" finished-at="2017-04-02T17:16:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="cartaddressverify()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="cartaddressverify" duration-ms="26056" started-at="2017-04-02T17:16:58Z" description="cartaddress" finished-at="2017-04-02T17:17:24Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case 5 is running...!]]>
+            </line>
+            <line>
+              <![CDATA[error..!!]]>
+            </line>
+            <line>
+              <![CDATA[Test case 5 passed...!]]>
+            </line>
+            <line>
+              <![CDATA[-Passed-]]>
+            </line>
+            <line>
+              <![CDATA[Test Method name is:- cartaddressverify]]>
+            </line>
+            <line>
+              <![CDATA[Test name is:- cartaddress]]>
+            </line>
+            <line>
+              <![CDATA[Test desc is:- cartaddress]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cartaddressverify -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="HomePage" is-config="true" duration-ms="1759" started-at="2017-04-02T17:17:24Z" finished-at="2017-04-02T17:17:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="cartshippingverify()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="cartshippingverify" duration-ms="36184" started-at="2017-04-02T17:17:26Z" description="cartshipping" finished-at="2017-04-02T17:18:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case 6 is running...!]]>
+            </line>
+            <line>
+              <![CDATA[error..!!]]>
+            </line>
+            <line>
+              <![CDATA[Checkbox is unchecked..!!]]>
+            </line>
+            <line>
+              <![CDATA[Test case 6 passed...!]]>
+            </line>
+            <line>
+              <![CDATA[-Passed-]]>
+            </line>
+            <line>
+              <![CDATA[Test Method name is:- cartshippingverify]]>
+            </line>
+            <line>
+              <![CDATA[Test name is:- cartshipping]]>
+            </line>
+            <line>
+              <![CDATA[Test desc is:- cartshipping]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cartshippingverify -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="HomePage" is-config="true" duration-ms="1849" started-at="2017-04-02T17:18:02Z" finished-at="2017-04-02T17:18:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+        <test-method status="PASS" signature="cartpaymentVerification()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="cartpaymentVerification" duration-ms="42799" started-at="2017-04-02T17:18:04Z" description="cartPayment" finished-at="2017-04-02T17:18:47Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test case 7 is running...!]]>
+            </line>
+            <line>
+              <![CDATA[error..!!]]>
+            </line>
+            <line>
+              <![CDATA[Checkbox is unchecked..!!]]>
+            </line>
+            <line>
+              <![CDATA[Checkbox is checked..!!]]>
+            </line>
+            <line>
+              <![CDATA[Test case 7 passed...!]]>
+            </line>
+            <line>
+              <![CDATA[-Passed-]]>
+            </line>
+            <line>
+              <![CDATA[Test Method name is:- cartpaymentVerification]]>
+            </line>
+            <line>
+              <![CDATA[Test name is:- cartPayment]]>
+            </line>
+            <line>
+              <![CDATA[Test desc is:- cartPayment]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cartpaymentVerification -->
+        <test-method status="PASS" signature="HomePage()[pri:0, instance:com.presta.tests.SmokeTest@747edf66]" name="HomePage" is-config="true" duration-ms="111" started-at="2017-04-02T17:18:47Z" finished-at="2017-04-02T17:18:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePage -->
+      </class> <!-- com.presta.tests.SmokeTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
